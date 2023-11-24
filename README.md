@@ -17,5 +17,3 @@ The **completed** Unity projects for each example can be found in their own repo
 - https://github.com/dr-matt-smith/unity-cookbook-2023-ch11-05-recent-checkpoint-spawn
 - https://github.com/dr-matt-smith/unity-cookbook-2023-ch11-06-mouse-click-destination
 - https://github.com/dr-matt-smith/unity-cookbook-2023-ch11-07-fire-projectiles
-- https://github.com/dr-matt-smith/unity-cookbook-2023-ch11-08-navmesh-surfaces
-- https://github.com/dr-matt-smith/unity-cookbook-2023-ch11-09-navmesh-links-non-horizonal-surfaces
